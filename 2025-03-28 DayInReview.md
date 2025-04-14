@@ -13,3 +13,4 @@ Systemd manages all daemons, processes, targets, services as units - including i
 Systemd unit is a unit which defines resources and services.
 Systemd unit files are configuration files which define actions of resources and services.
 Systemctl - main command for controlling systemd units, executes all tasks involving unit activation, deactivation, execution, interruption, and monitoring.
+Lesson 11 Security fundamentals: Firewall is a barrier between internal network (secure) and external network which could be insecure. System monitors and controls incoming and outgoing network traffic. Firewall requires 2 major actions: pack routing - IP forwarding and access control list.
