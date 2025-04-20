@@ -1,2 +1,3 @@
 Tuesday we learned about the two types of hyper-visors: Type 1 and Type 2.
 We also learned how to count in binary which I found particularly interesting.
+DSL stands for digital subsciber line it carreis both voice and internet data over telephone lines at the same time (or full-duplex if you will). Though it is not dial-up. One key feature contrasting the two is DSL is a highspeed connection but not as fast as cable but doesn't have to share bandwith with your neighborhood like cable and it's cheaper. DSL subscribers have their own dedicated line and uses common telephone lines making it more widely available.
