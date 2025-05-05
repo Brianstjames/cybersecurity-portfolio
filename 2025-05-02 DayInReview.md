@@ -29,7 +29,5 @@ SNMP's goal is to "log events". SNMP Manager = centralized system for network mo
 Mangement Information Base (MIB) hierarchical collection of managed resource informatin and organized into catetories (e.g., system, interface, IP, more pg.4); Ports UDP/161 (queries) and UDP/162 (traps)
 Event Management Lesson 8.4 = Event Viewer & Windows Logs Video Logs = viewed via event viewing. Looking for audit failures. 
 Linux uses syslog to view logs (watched video Straight2Point What is Syslog? Easy to understand
-IBM Technology Siem video 
-
-
+IBM Technology Siem video/ 
 
