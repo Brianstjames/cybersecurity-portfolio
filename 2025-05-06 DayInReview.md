@@ -17,4 +17,5 @@ Kerberos uses tickets (as in fair) to use services/servers. Ticket Granting tick
 Sunny Classroom video AAA Framework: Authentication, Authorization Accounting. Radius is remote authentication dial-in user. It's a protocol explaination starts on pg. 25 Lesson 10.1 ... 
 Radius and TACACs Sunny's Classroom video.
 Lightweight Directory Access Protocol (LDAP) allows users & apps to find info on people, files, software, devices, and organizations within network. Active Directory by Microsoft spins from LDAP.
-All these are different ways to Authenticate. Another way is 802.1X aka NAC and EAP Extended Authentiction Protocol (video by Mushraf Mustafa) EAP = clear credentials such as passwords etc.
+All these are different ways to Authenticate. Another way is 802.1X aka NAC and EAP Extended Authentication Protocol (video by Mushraf Mustafa) EAP = clear credentials such as passwords etc.
+802.1x Port Based Access Control: switch and Access Point act as Authenticator. Client is the supplicant. Process is 802.1x. NAC will put device in quarantine if it doesn't pass muster. Then we include Extended Authentication Protocol (EAP) is on the switch (it works in the switch). 
