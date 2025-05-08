@@ -1,0 +1,7 @@
+A Hero has a Guide who must be (How to win friends ... by Dale Carnege or Building A Story Brand by Donald Miller) trustworthy (book by James Myster). Credibility: (Diedra said don't immediately speak observe.) Be quiet and observe. Learn observation, systems and processes. Seek advice. Learn the systems, processes, and software you need for work. Certifications are objective proof.
+Shadowing is a good way to learn something. Credibility, Reliability, Intimacy - C+R+I/Self. Fundamental Attribution Error e.g., people from one region think they are faster than people from another region. Communication is the way to correct that. Intimacy - involves being a good listener, being willing to help.
+Shan Cooper talked about learning SEC football to be able to relate to white men.
+Hadji Hicks is to be our guest speaker today. Info sec analyst blue team brower reset 60k first job at NCR. Then did incident response stopping the thread mitigate alerts. Pager duty 24 hours extra work no extra pay. Cox Enterprises got interview for application analyst threat intel, intune join migrating cloud.
+Google chronicle. Risky sign-in Azure system. Wireshark capturing network traffic is a good project to show prospective employers.
+Microsoft Azure portal risky sign-in details, app.crowdsec.net CrowdSec, AS short for ASN atomic system number. First step: check location, IP address (hex),
+Google chronicle sim is what Hadji used to make his big find at Cox. Single sign-in, multifactor sign-in. Failure, interrupted, or success. 
