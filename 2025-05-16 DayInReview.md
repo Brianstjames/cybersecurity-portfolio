@@ -18,3 +18,5 @@ Clientless VPN - allows access to network resources via web browser pg.24.
 Lesson 13.3 Remote Management. Remote Desktop Protocol (RDP) port 3389 Microsoft. SSH port 22 pg.2. Telnet port 23. Page 9.
 Out of band management pg. 9 and 10. 
 Point Services "How to use a Console cable" Video, Messer Other Network Appliances. 
+API pg 13 Application Programing Interface Scripting scripts provide efficiency, reliability, and scalability in configuring physical and virtual appliances. Use scripts for configuring appliances (avoid menual steps). Automation - computerize repetitive and manual tasks, i.e., complete a single repetitive task without human intervention. Orchestration - automate a series of linked tasks designed to together.
+"What is an API" MuleSoft Videos Video. 
