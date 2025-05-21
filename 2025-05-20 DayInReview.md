@@ -1,0 +1,8 @@
+Cloud Computing Explained Powercert Video and Introduction to Cloud Computing Cloud Deployment Model - Public Cloud, Private Cloud, ... Video by Software Architecture Academy. Cloud Computing: Scalability, Elasticity, CSP, On-Premise vs Cloud.
+Services in the cloud are computing, storage, network, and software. Simplilearn Cloud Computing in 6 minutes. What is cloud computing? Cloud Computing. Sunny Classroom video IaaS, PaaS, SaaS: 3 cloud computing service models. Services offered by cloud: Compute, Storage, Network, and Software. 
+Adam Marczak - ... AZ-900 Episode 5 | IaaS vs PaaS ... video.
+Lesson 14.2, CDN Content Delivery Network Powercert Video. CDN are POP servers or edge servers allowing for far-flung service's information to be cached for fast access.  Telefonica ID video "Network Virtualization. Introduction". Separating hardware from software is key.  
+Lesson 14.3 Cloud Networking (Need Video) Prof. Messer "Designing the Cloud ... and Cloud Models ..." - NFV Network Function Virtualization pg. 2. Instructor advised they're used to manage multiple switch configuration(s).
+VPC = Cloud Virtual Data Center. Public Subnet, Private Subnet. NAT Gateway ? Cloud - Instance, 
+Lesson 14.4 Modern Network Environments (Need Video) IBM Technology video "Virtual Networking Explained". SDN - uses software-based controllers or API to communicate with underlying hardware infrastructure to direct traffic. NFD is for configuring, SDN is for managing virtual switches, routers and such.
+(SaaS) Software as a service - on-demand software, central management of data and applications (your data is centrally managed by CSP), and complete application offering e.g., gmail.
