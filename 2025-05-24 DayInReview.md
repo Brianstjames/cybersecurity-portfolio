@@ -1,14 +1,13 @@
 - Notes Exam Practice 2: Network Implementations |
-- Electromagnetic interference (EMI) causing potential degradation of data transmission.
-- Running data cables close to electrical power cables and fluorescent lights can lead to electromagnetic interference, which disrupts the signal flow within the data cables.
-- This interference can cause data loss, slow transmission speeds, and even network outages.
+- Electromagnetic interference (EMI) potential causes degradation of data transmission.
+- Running data cables close to electrical power cables and fluorescent lights can lead to electromagnetic interference, which disrupts the signal flow within the data cables. This interference can cause data loss, slow transmission speeds, and even network outages.
 - Wirless networks often operate on two main frequency bands: 2.4GHz and 5 GHz.
 - 5 GHz band offers less interference and higher data rates but has a shorter range than 2.4 GHz.
-- 5 GHz devices consume more power due to higher data rates and processing, the primary concern regarding wireless converage is ensuring connectivity and optimal performance.
+- 5 GHz devices consume more power due to higher data rates and processing. The primary concern regarding wireless converage is ensuring connectivity and optimal performance.
 - 2.4 GHz signals are better at penetrating walls and other physical barriers making it more suitable for coverage over larger areas and through obstacles.
 - The customer's router is known as the customer edge (CE).
-- The service provider's router is known as teh provider edge (PE). Routers serve both to link physically remoter networks and subdivide autonomous IP networks into multiple subnets.
-- Edge routers designed to work with DSL or cable broadband access methods are known as smaill office/home office (SOHO) routers.
+- The service provider's router is known as the provider edge (PE). Routers serve both to link physically remote networks and subdivide autonomous IP networks into multiple subnets.
+- Edge routers designed to work with DSL or cable broadband access methods are known as small office/home office (SOHO) routers.
 - Edge routers can perform framing to repackage data from the private LAN frame format to he WAN Internet access frame format.
 - WPA2-Personal uses a single passphrase shared among users.
 - WPA2-Enterprise uses IEEE 802.1X and EAP to authenticate each user individually against a AAA server enhancing security while also providing individual accountablity, allowing each user's access can be tracked and managed separately.
