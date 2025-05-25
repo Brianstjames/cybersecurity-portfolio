@@ -1,4 +1,5 @@
-- Notes Exam Practice 2: Network Implementations |
+ Notes Exam Practice 2: Network Implementations |
+ 
 - Electromagnetic interference (EMI) potential causes degradation of data transmission.
 - Running data cables close to electrical power cables and fluorescent lights can lead to electromagnetic interference, which disrupts the signal flow within the data cables. This interference can cause data loss, slow transmission speeds, and even network outages.
 - Wirless networks often operate on two main frequency bands: 2.4GHz and 5 GHz.
@@ -32,11 +33,10 @@
 -  Collision domain size is affected by network design and the use of devices like switches and hubs.
 -  Network analyzers determine Maximum Transmission Unit (MTU) sizes supported along the network path. Adjusting servers' MTU to match the smallest MTU found prevents fragmentation and ensure smooth communication.
 
--  Exam Practice 3 Network Operations
--  
+  Exam Practice 3 Network Operations |
+  
 -  Combining DNS Security Extensions (DNSSEC) and DoH offers a comprehensive approach to DNS security. DNSSEC ensures the authenticity and integrity of DNS responses, protecting against spoofing and poisoning attacks. DNS over HTTPS (DoH) encrypts DNS queries, safeguarding them from interception and tampering, especially important for BYOD and remote access scenarios. This combination addresses both the validation of DNS responses and the encryption of DNS queries, providing a robust security posture.
 - Network Time Protocol (NTP) server - If time is off by just a few seconds, slewing is better for putting it back on track. Slewing is a slower, methodical method of correcting time, but the risk of problems occurring is much less. Slamming is used if the time is off by quite a bit and slewing will take too long. While it is a quick and immediate fix, slamming can cause some programs to function improperly. Jitter refers to small, rapid variations in a system's clock. Skew measures the difference (in hertz) between a clock's actual frequency and the frequency necessary to keep a more accurate time.
 -  Creating a new scope with more addresses and reducing the lease period can help mitigate issues by ensuring there are enough IP addresses for all devices and that addresses are quickly recycled when devices disconnect from the network.
 -  Improperly Decommissioning devices is a significant risk that software licenses could be misused or that configuration information could be leaked.
 -  Netflow is specifically designed to collect and report network traffic data. It provides insights into traffic patterns, helping identify bottlenecks and optimize routing, without the need for capturing every packet in full, thus reducing overhead. DHCP is used for dynamically assigning IP addresses to devices on a network. DNS translates domain names to IP addresses. SNMP can be used for network management and monitoring, it does not specifically focus on collecting and reporting traffic flow data as NetFlow.
--  
