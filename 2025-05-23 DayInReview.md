@@ -8,6 +8,7 @@ Enable spanning tree - activating Spanning Tree Protocol (STP) or its variants (
 
 - Exam 1 Practice Network Concepts |
 - Complex routing algorithms are used by routers, which operate at the Nerwork layer.
+- Small and Medium-sized Enterprises ...
 - protocol field value of 17 indicates UDP, which is not primarily used for HTTP and HTTPS traffic.
 - protocol field value of 1 indicates ICMP which is used for diagnostic and control purposes.
 - protocol field value of 2 indicates IGMP, which is used for managing multicast group memberships.
