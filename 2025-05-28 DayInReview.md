@@ -1,0 +1,3 @@
+- Reviewed Exam Practice 3:Network Operations in class with JW.
+- Jenny and Jahari monthly review.
+- 
