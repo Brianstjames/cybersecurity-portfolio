@@ -1,5 +1,5 @@
 - netstat (short for network statistics) is a command-line tool used to display detailed information about a computer's network connections, routing tables, and network interface statistics. nslookup - Windows command-line tool used to display DNS information, not as thorough as dig (which is a Linux command-line tool native. ping command test for connectivity. tracert - command tracks hops. 
--ARP LAN has an ip address but is looking for the mac address. ACLs Access Control list is table on a firewall filter. They filter packets based on parameters like ip address, mac addresses, port numbers, and etc.
+- ARP LAN has an ip address but is looking for the mac address. ACLs Access Control list is table on a firewall filter. They filter packets based on parameters like ip address, mac addresses, port numbers, and etc.
 NAC Network Access Control - is a security  solution that enforces policies on devices trying to access a network, ensuring only authorized  and compliant devices can connect.
 SVI Switched Viritual interface - is a virtual interface on a Layer 3 switch that provides routing and Layer 3 IP connectivity to VLANs (Virtual LANs). 
 IDS detection - intrusion detection system is a security tool  that monitors network traffic or system activities to identify and alert on potential malicious behavior, policy violations, or security threats.
@@ -22,3 +22,4 @@ Enable spanning tree - activating Spanning Tree Protocol (STP) or its variants (
 - The Transport layer (layer 4) deals with the transmission of data segments between points on a network, not with parsing application data.
 - The Data link layer (layer 2) is responsible for node-to-node data transfer and does not inspect application protocol headers or payloads.
 - The Physical layer (layer 1) deals with the physical transmission of data over a network medium and does not involve parsing data at the application level.
+- DSL Digital Subscriber Line 
