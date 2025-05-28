@@ -1,3 +1,6 @@
 - Reviewed Exam Practice 3:Network Operations in class with JW.
 - Jenny and Jahari monthly review. June 2 - 8 window for Network+ Exam
 - Speaker today Richard Cox SVP of Customer Service at Delta. Former CIO of Cox Enterprises. Stood-up Keisha Lance Bottoms administration 2018-2019. ESG Environment, Social, and Governance.
+- Exam 5 Review in class nslookup
+- Played Quizziz Game
+- 
