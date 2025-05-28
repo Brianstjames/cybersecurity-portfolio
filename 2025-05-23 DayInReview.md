@@ -7,12 +7,13 @@ NFV network functions virtualization - is a network architecture concept that re
 Enable spanning tree - activating Spanning Tree Protocol (STP) or its variants (RSTP, MSTP) on a network switch to prevent loops in Ethernet networks while ensuring redundancy.
 
 - Exam 1 Practice Network Concepts |
- - protocol field value of 17 indicates UDP, which is not primarily used for HTTP and HTTPS traffic.
- - protocol field value of 1 indicates ICMP which is used for diagnostic and control purposes.
- - protocol field value of 2 indicates IGMP, which is used for managing multicast group memberships.
- - SD-WAN Software-Defined Wide Area Network -
- - Network Level Authentication (NLA) adds layer of security by requiring authentication before establishing a session, thus protecting against unauthorized access and denial of service attacks.
- - Secure Administrative Workstation (SAW) - minimizes the risk of connecting from a compromised or low-security device, further enchancing the security of the remote desktop connection.
+- Complex routing algorithms are used by routers, which operate at the Nerwork layer.
+- protocol field value of 17 indicates UDP, which is not primarily used for HTTP and HTTPS traffic.
+- protocol field value of 1 indicates ICMP which is used for diagnostic and control purposes.
+- protocol field value of 2 indicates IGMP, which is used for managing multicast group memberships.
+- SD-WAN Software-Defined Wide Area Network -
+- Network Level Authentication (NLA) adds layer of security by requiring authentication before establishing a session, thus protecting against unauthorized access and denial of service attacks.
+- Secure Administrative Workstation (SAW) - minimizes the risk of connecting from a compromised or low-security device, further enchancing the security of the remote desktop connection.
   
 - A /21 CIDR notation can summarize eight contiguous /24 networkd into a single network. This is because a /21 network encompasses 2^11 = 2048 addresses, and since each /24 network represents 256 addrsses, eight of them would total 2048 addresses.
 - Ques. 15 Review VPNs
