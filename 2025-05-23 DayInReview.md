@@ -8,7 +8,7 @@ Enable spanning tree - activating Spanning Tree Protocol (STP) or its variants (
 
 - Exam 1 Practice Network Concepts |
 - Complex routing algorithms are used by routers, which operate at the Nerwork layer.
-- Small and Medium-sized Enterprises ...
+- A Small and Medium-sized Enterprises (SME) is designed to support dozens of users in a single location, using structured cabling and multiple switches and routers to provide connectivity.
 - protocol field value of 17 indicates UDP, which is not primarily used for HTTP and HTTPS traffic.
 - protocol field value of 1 indicates ICMP which is used for diagnostic and control purposes.
 - protocol field value of 2 indicates IGMP, which is used for managing multicast group memberships.
@@ -24,4 +24,9 @@ Enable spanning tree - activating Spanning Tree Protocol (STP) or its variants (
 - The Transport layer (layer 4) deals with the transmission of data segments between points on a network, not with parsing application data.
 - The Data link layer (layer 2) is responsible for node-to-node data transfer and does not inspect application protocol headers or payloads.
 - The Physical layer (layer 1) deals with the physical transmission of data over a network medium and does not involve parsing data at the application level.
-- DSL Digital Subscriber Line 
+- DSL Digital Subscriber Line
+  
+  | Exam Practice 3
+- Port mirroring (also known as SPAN- Switched Port Analyzer) allows network traffic seen on one port (or VLAN) to be copied to another port where it can be analyzed. However, mirroring all traffic can easily overwhelm the monitoring system, especially on a busy network.
+- Audit logs - record authentication and authorization events, can also be referred to as access logs or security logs due to their focus on security-related events. Performance logs focus on metrics over time. System config logs - are akin to system logs. User activity logs encompass a broader range of activities than just access and security events.
+ 
