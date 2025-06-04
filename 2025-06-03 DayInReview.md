@@ -1,0 +1,11 @@
+- Link aggregation is the combination of multiple network connections in parallel by any of several methods including combining multiple NICs in tandem to increase bandwidth.
+- Port 587 is the secure version of SMTP uses TLS. Port 25 is for SMTP insecure. 110 is accociated with POP insecure. 143 is associated w/ IMAP insecure.
+- Central policy man management - helps enforce consistent security policies across the entire network, ensuring all systems are compliant and reducing vulnerabilities.
+- Split-tunnel VPNs provide cost savings primarily because they reduce bandwidth load on the company's network by allowing non-essential traffic to flow directly to the internet.
+- Tracert shows the exact route the packet takes from source to destination including all intermediate routers and network links.
+- DNS poisoning - is a cyberattack where an attacker corrupts a DNS (Domain Name System) cache or server, redirecting users to malicious websites intead of legitimate ones.
+- MAC flooding is a network attack where an attacker overwhelms a switch's MAC address table which is called the CAM (Content Addressable Memory) table. Switches learn and store MAC addresses in their CAM table, mapping each MAC address to a physical port. When the table is flooded with fake source MAC addresses it goes into fail-open mode, causing it to behave like a hub--broadcasting traffic to all ports and allowing the attacker to intercept data.
+- Network Access Control (NAC) is a security framework that enforces policies to control which devices and users can access a network. It ensures only authorized, compliant devices (e.g., corporate laptops, IoT sensors) connect while blocking or quarantining non-compliant ones (e.g., infected or rogue devices).
+- nmap (Network Mapper) is a powerful open-source tool for network discovery, security scanning, and vulnerability assessment. It helps administrators and security professionals analyze networks by indentifying devices, open ports, services, and potential weaknesses.
+- Load balancer distributes incoming network traffic (e.g., web requests, database queries, or API calls) across multiple servers or resources to: prevent overload (avoids singe-server bottlnecks, maximize speed and uptime (improves responsiveness and reliability, and handle failures gracefully (redirects traffic if a server crashes).
+- 
