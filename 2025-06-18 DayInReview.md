@@ -1,4 +1,5 @@
 Chapter 5 Lesson | Module 5 Functions |
+
 pg. 2.Functions void function: executes statements and terminates. value-returning function: executes statements it contains. Returns a value back to original call statement.
 Review pg. 3 slides.
 Function Naming Rules pg. 4 slides. Review pg. 6 of slides.
