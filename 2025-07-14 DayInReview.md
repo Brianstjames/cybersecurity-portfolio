@@ -1,4 +1,15 @@
-Federation - networks under separate admin control/share user accounts. pg 10
+Security+ Lesson 4C
+
+Federation 
+- networks under separate admin control share user accounts. pg 10
+- organization trusts accounts created and managed by different network
+Federation purpose is to Authenticate and Authorize.
+Federated Identity Management (FIM)
+Three components:
+1. Priniple use (browser) request to SP.
+2. Service Provider(SP)/ Relying Party (RP)/ Customer - federated partner provides services/apps to members.
+3. Identity Provider(IdP) validates/vouches for the identity of a user/principal.
+
 
 Video SoftTech Sharing "Authentication Protocols Every Beginner Should Know | SAML(SSO), OAuth, OpenID, RADIUS Explained"
 
@@ -14,9 +25,7 @@ Radius then TACAS+, LDAP then Kerberos, MS Active Directory SSO single sign on
 
 - VPN creates tunnel to network as if your on site (internal).
 
-Federation purpose is to Authenticate and Authorize. It has three components -  Priniple, Service Provider(SP), and Identity Provider(IdP).
-
-SSO - 
+Single sign-on (SSO) - 
 SAML - provides specific protocols and technologies to user identity assertions.
 OpenID does Authentication
 OAuth does Authorization
@@ -42,7 +51,7 @@ Attack Surface vs. Attck Vector -
 
 Network Access Control (NAC) -
 
-- 802.1.x - is an IEEE standard dining how devices authenticate before gaining access to wired/wireless Local Area Network (LAN). It's core purpose is to prevent unauthorized devices from connecting to the network port (physical or wireless) until they prove their identity and meet security requirements. It uses EAP (Extensible Authentication Protocol) for flexible credential exchange (EAP-TLS, PEAP, EAP-TTLS, etc.).
+- 802.1.x - is an IEEE standard defining how devices authenticate before gaining access to wired/wireless Local Area Network (LAN). Its core purpose is to prevent unauthorized devices from connecting to the network port (physical or wireless) until they prove their identity and meet security requirements. It uses EAP (Extensible Authentication Protocol) for flexible credential exchange (EAP-TLS, PEAP, EAP-TTLS, etc.).
 
 Network Access Control (NAC)
 
@@ -62,7 +71,7 @@ Acceptable Use Policy (AUP) (on test) -
 Lesson 5B Network Security Appliances
 
 Device Attributes - precise way device can be placed in network
-Active control uses software (agent)
+Active control - uses software (agent)
 Passive control - does not use sofware (agentless)
 
 Switched Port Analyzer -- SPAN - sensor attached to special port on switch
