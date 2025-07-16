@@ -18,3 +18,5 @@ One thing are you doing to stop doing? Procrastinate.
 One decision one needs to own this week instead of letting someone make it for you?
 
 Second guest speaker is from On the Rise. He lectured about Financial Literacy.
+
+After lunch Primous talked about the workforce current and interviewsby.ai
