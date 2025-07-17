@@ -21,7 +21,12 @@ Schema - Design or structure of a database.
 
 Video IBM Technology Cybersecurity Architecture: Who Are You? Identity and Access Management. 
 
-Databases - LDAP, MSAD, KERBEROS, RADIUS/TACACS
+Authentication protocols
+Databases - 
+- LDAP = manages and authenticates to directories. 
+- MSAD,
+- KERBEROS = mutual authentication for client and service over an untrusted network like the internet. 
+- RADIUS/TACACS
 
 Resources - printers, files/folders, IOT, Camera, and etc.
 
@@ -35,11 +40,12 @@ Video Professor Messer Biometrics - SY0-601 CompTIA Security+ : 2.4
 Video IBM Technology Passwordless Authentication: Weighing the Options
 
 One-time password (OTP)
-Fast Identity Online (FIDO - uses device to authenticate)  | Universal Second Factor (U2F)
+- Fast Identity Online (FIDO - uses device to authenticate)
+- Universal Second Factor (U2F)
 HMAC-based One-time Password Algorithm (HOTP) pg.16
-Time-based One-time Password Algorithm (*TOTP) - time-based OTP; moving factor in each code based on time OTP = TOTP(shared secret + timestamp) *=preferred
+- Time-based One-time Password Algorithm (*TOTP) - time-based OTP; moving factor in each code based on time OTP = TOTP(shared secret + timestamp) *=preferred
 
-Video IBM Technology "Password vs. Passkeys - FIDO Bites Back!" & "FIDO Promises a Life Without Passwords"
+- Video IBM Technology "Password vs. Passkeys - FIDO Bites Back!" & "FIDO Promises a Life Without Passwords"
 
 Passwords should be:
 - Complex (length and alphanumeric and unique characters/hexadecimal)
