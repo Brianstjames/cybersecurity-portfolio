@@ -4,7 +4,7 @@ Video Prof. Messer "Cloud Infrastructure"
 Video Powercert "What is Cloud Computing" & "Virtualization"
 Video by "Digital Cloud Training AWS Shared"
 Video Sunny Classroom "Virtualization: Bridged ..." A virtual machine is file sitting on a hard-drive per Sunny.
-Video RapidScale "Virtual Desktop Infrastructure (VDI) Explained"
+Video RapidScale "Virtual Desktop Infrastructure (VDI) Explained" (pg. 25 of slides.)
 
 Cloud Deployment Models
 - Security Consderations
