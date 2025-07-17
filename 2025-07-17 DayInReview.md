@@ -5,6 +5,13 @@ Video Powercert "What is Cloud Computing" & "Virtualization"
 Video by "Digital Cloud Training AWS Shared"
 Video Sunny Classroom "Virtualization: Bridged ..." A virtual machine is file sitting on a hard-drive per Sunny.
 Video RapidScale "Virtual Desktop Infrastructure (VDI) Explained" (pg. 25 of slides.)
+Video by AWS Whiteboarding Virtural Private Cloud (VPC)
+Video Powercert Virtual Private Cloud (VPC)
+Video by ACI Learning "Virtual Machines vs Containers - Which is right for you?"
+Video by IBM VM vs Container & VM vs. Docker
+Video by SimplyExplained What is an API 
+
+VPC is a cloud data center
 
 Cloud Deployment Models
 - Security Consderations
@@ -24,12 +31,19 @@ Virtulization allows for multiple virtual machines on a powerful computer called
 
 Playing a video on Amazon is a micro-service
 
-Cloud Computing
+Cloud Computing:
 aws
 azure
 google cloud
 alibaba
 IBM
 
-Virtual - Processor, Ram, Storage (hard drive), NIC - network interface card.
+Computer Basic Components = Processor, Ram, Storage (hard drive), NIC - network interface card.
 
+Desktop as a Service (DaaS) = virtualization in the cloud; Virtual Desktop Infrastructure (VDI) = virtualization done on premise.
+
+Kernel is the core of an operator system, then drivers, and etc.
+
+VM vs. Container
+VM = virtualizes Hardware
+Container = virtualizes O/S
