@@ -31,7 +31,7 @@ Virtulization allows for multiple virtual machines on a powerful computer called
 
 Playing a video on Amazon is a micro-service
 
-Cloud Computing:
+Cloud Computing popular platforms:
 aws
 azure
 google cloud
@@ -47,3 +47,20 @@ Kernel is the core of an operator system, then drivers, and etc.
 VM vs. Container
 VM = virtualizes Hardware
 Container = virtualizes O/S
+
+- Infrastructure as a Service pg.7 (IaaS) = hardware and network infrastructure devices are provided virtually
+- Platform as a Service (PaaS) = delivers everything a developer needs to build an application on the cloud infrastructure
+- Software as a Service (SaaS) = delivers software applications to the client either over the internet or on a local area network.
+
+- High Availability (HA) = guarantee 99.99% uptime or better
+
+- pg. 20 Virtualization platform
+  1. Host hardware
+     a. physical computer ("host") running (hosting) a VM
+
+  VDI pg.25
+  1. storing images of clients (OS + applications) on a central server
+
+pg. 27 Application Virtualization
+1. user accesses app hosted on server or streams the app from the server to client
+2. does not run the whole client desktop image
