@@ -13,6 +13,12 @@ STATUS CODE:
 Video by CodeWithMzn What is API? (Application Programming Interface)
 Video by FlowInData "What is SOAP"
 
+API pg. 6 
+- mechanism allow two app components to communicate with each other using a set of definitions and protocols
+- software-to-software interfaces
+- i.e. allow diffent apps to connect and exchange information or functionality
+
+
 Simple Object Access Protocol API (SOAP)
 - uses XML format 
 - extensions in form of Web Services (WS) standards
@@ -60,7 +66,22 @@ Video IBM Technolgy "What is Infrastructure as Code"
 
 Kubernetes (k8s) = is a container in the cloud
 
-Video Udacity "Advantages of SDN ..."
+Video Udacity 
+
+"Advantages of SDN ..." pg.13 6A (cont'd)
+
+Software Defined Networking = decouple network control logic from the devices performing the function (e.g., switches, routers)
+- network control logic = controls movement of information in the underlying network
+- Physical and virtual app
+
+Network Function Virtualization (NFV)  pg. 13 and 14  a subset security devices
+
+Video TECHtalk "What is Software-Defined Networking (SDN)"
+
+3 planes:
+- Control plane =
+- Data plane =
+- Management plane = 
 
 NFV pg. 14
 
@@ -80,5 +101,11 @@ Data Dog, Prometheus?
 
 
 
+Lesson 6B pg. 6
+IT is probabalistic (like the booting up a movie on Netflix, might not work)
+
+Operational Technology (OT) is Deterministic (action must work)
+
+6B pg. 11 & 12 Industrial Control Systems
 
 
