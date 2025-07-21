@@ -3,20 +3,12 @@ Security+ Lesson 6A (cont'd)
 Cloud Architecture 
 pg. 5
 
-Virtual Private Cloud (VPC) = A cloud computing model in which the cloud provider manages the infrastructure and automatically allocates resources as needed, charging only for the actual usage of the application. 
-- VPC = is actually a datacenter in the cloud
+Virtual Private Cloud (VPC) = is a isolated private network within a public cloud.
 
 STATUS CODE: 
 - 200 SUCCESS
 - 400 CLIENT 
-- SEVER ERROR
-
-- IT focus is on spinning up:
- 1. computing
- 2. storage
- 3. network
- 4. platform
- 5. applications
+- 404 ERROR URL NOT FOUND
 
 Video by CodeWithMzn What is API? (Application Programming Interface)
 Video by FlowInData "What is SOAP"
@@ -81,7 +73,9 @@ System on Chip - SoC pg.4 (On Test)
 pg.20 Controller area network (CAN)
  - serial
 
-Zero Trust 
+Zero Trust?
+Data Dog, Prometheus?
+
 
 
 
