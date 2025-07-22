@@ -1,8 +1,8 @@
 The 4 A's
-- Administration: claim
+- Administration: make a claim
 - Authentication: prove claim
-- Authorization: right permissions
-- Accountin:g auditing and logging
+- Authorization: rights and permissions
+- Accountin: auditing and logging
 
 Video Zero Trust Explaining
 
@@ -54,5 +54,11 @@ Video by TechTarget "What is a Storage Snapshot ..."
 
 Secure Data Destruction (pg.30)
 - Asset Disposal
+- Deleting the data from index in not deleting from SSD. You are deleting the pointer.
+
+Sanitation (pg.31 Lesson 7A) = process of removing sensitive information from storage media.
+
+Destruction (pg.32)
+- physical or electronic elimination of information stored on media
 
 
