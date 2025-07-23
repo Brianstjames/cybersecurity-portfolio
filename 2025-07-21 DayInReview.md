@@ -1,8 +1,8 @@
-The 4 A's
+The 4 "A"s
 - Administration: make a claim
 - Authentication: prove claim
 - Authorization: rights and permissions
-- Accountin: auditing and logging
+- Accounting: auditing and logging
 
 Video Zero Trust Explaining
 
