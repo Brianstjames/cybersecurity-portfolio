@@ -4,6 +4,7 @@ Security+ Lesson 7B
 Business Continuity Plan vs Continuity of Operations Planning
 
 Business Continuity Planning (BCP) - overall business resilience
+Video Maj Thomasz Pawel Cybersecurity 101 Disaster recovery & Business Continuity 
 
 Continuity of Operations Planning (COOP) pg. 2
 a. resume critical functions in the event of disaster, disruption, or crisis
