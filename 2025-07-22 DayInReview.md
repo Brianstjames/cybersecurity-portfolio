@@ -5,6 +5,7 @@ Business Continuity Plan vs Continuity of Operations Planning
 
 Video Maj Tomasz Pawel "Cybersecurity  101 Disaster Recovery & Business Continuity"
 
+
 Business Continuity Planning (BCP) - overall business resilience
 Video Maj Thomasz Pawel Cybersecurity 101 Disaster recovery & Business Continuity 
 
