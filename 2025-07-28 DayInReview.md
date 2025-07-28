@@ -1,12 +1,12 @@
 Security+ Lesson 8C
 
-Video Professor Messer "Vulnerability Scanning (good video shows examples of vulnerabilities)
-Video Professor Messer "Penetration Testing 4.3 6:21 min."
+- Video Professor Messer "Vulnerability Scanning (good video shows examples of vulnerabilities)
+- Video Professor Messer "Penetration Testing 4.3 6:21 min."
 
-Video IBM "Threat Hunting"
-Video IBM "Dark Web"
-Video Professor Messer Inwdicators of Compromise
-Video Sunnyclassroom Dark Web Tor Browser
+- Video IBM "Threat Hunting"
+- Video IBM "Dark Web"
+- Video Professor Messer Inwdicators of Compromise
+- Video Sunnyclassroom Dark Web Tor Browser
 
 Open-source Intelligence (OSINT)
 i. generic term for "free" info
