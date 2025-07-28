@@ -13,11 +13,11 @@ i. generic term for "free" info
 
 Video Professor Messer Indicators of Compromise (IoC)
 Indicators of compromise (IoC)
-i. log file
-ii. files, Applications
-iii. user accounts
-vi. questionable traffic
-v. url, location gps, rogue devices, DNS
+- i. log file
+- ii. files, Applications
+- iii. user accounts
+- vi. questionable traffic
+- v. url, location gps, rogue devices, DNS
 
 Indicators of Attack (IoA)
 
