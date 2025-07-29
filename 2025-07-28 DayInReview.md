@@ -16,7 +16,7 @@ Indicators of compromise (IoC)
 - i. log file
 - ii. files, Applications
 - iii. user accounts
-- vi. questionable traffic
+- iv. questionable traffic
 - v. url, location gps, rogue devices, DNS
 
 Indicators of Attack (IoA)
