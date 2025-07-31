@@ -1,0 +1,2 @@
+Guest speaker Chris Thorpe
+
